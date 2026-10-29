@@ -12,4 +12,6 @@
 |---|---|---|
 | ❄️ 15 วันก่อนหิมะตก · ภาคฤดูหนาว | 15 ตอน (จบภาค) | [15-days-before-snow-winter](../../releases/tag/15-days-before-snow-winter) |
 
+- 📋 [IG setup sheet](SETUP.md) · ✍️ [แคปชันทุกคลิป](brief.md) · 🖼️ [รูปโปรไฟล์](brand/promptfung-profile.png)
+
 เรื่องแต่ง · ตัวละครและเหตุการณ์สมมติขึ้นทั้งหมด ใช้ชื่อสถานที่จริงเป็นฉากเท่านั้น
