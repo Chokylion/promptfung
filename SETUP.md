@@ -5,7 +5,7 @@ Account: **@prompt_fung** · Site: https://promptfung.vercel.app
 ## 1. Profile (Edit profile, in the app)
 | Field | Value |
 |---|---|
-| Profile picture | [`brand/promptfung-profile.png`](brand/promptfung-profile.png) (1080×1080, red bubble logo on black) |
+| Profile picture | **[`brand/promptfung-profile-rois.png`](brand/promptfung-profile-rois.png)** (รออีส ✌️, pastel pink, 1080×1080) · alt: [`brand/promptfung-profile.png`](brand/promptfung-profile.png) (pink logo on black) |
 | Name | `promptfung · พร้อมฟัง` |
 | Username | `prompt_fung` |
 | Category | Digital creator (or Video creator) |
@@ -43,9 +43,9 @@ Account: **@prompt_fung** · Site: https://promptfung.vercel.app
 ## 5. Brand
 | | |
 |---|---|
-| Logo | [`logo.svg`](logo.svg) — round red speech bubble, white play button, two sound waves |
-| Wordmark | **PROMPT** (red #E50914) **FUNG** (white), Nunito Black, uppercase |
-| Colours | red #E50914 · black #141414 · gold #E9C46A · white #F5F5F1 |
+| Logo | [`logo.svg`](logo.svg) — round pastel-pink speech bubble, white play button, two sound waves |
+| Wordmark | **PROMPT** (pastel pink #F7A1BC) **FUNG** (white), Nunito Black, uppercase |
+| Colours | logo pink #FFC6D5→#F08FAE · wordmark pink #F7A1BC · site red #E50914 · black #141414 · gold #E9C46A · white #F5F5F1 |
 | Thai font | Kanit (titles), Mitr (captions) |
 | Sign-off | 🎧 พร้อมฟังต่อมั้ย |
 | Series emoji | ❄️ หิมะ · 🌊 ทริปรอดตาย · 🛶 ท่าพระจันทร์ · 🐰 อนาล็อก |
