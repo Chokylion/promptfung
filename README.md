@@ -32,6 +32,14 @@
 | ตอนที่ 14 | [โฟลเดอร์](episodes/snow-ep14) | [release](../../releases/tag/snow-ep14) |
 | ตอนที่ 15 | [โฟลเดอร์](episodes/snow-ep15) | [release](../../releases/tag/snow-ep15) |
 
+## 🌊 ทริปรอดตาย (ภาค 2 · กำลังลง)
+
+| ตอน | ไฟล์ | วิดีโอ |
+|---|---|---|
+| ตอนที่ 1 | [โฟลเดอร์](episodes/island-ep01) | [release](../../releases/tag/island-ep01) |
+| ตอนที่ 2 | [โฟลเดอร์](episodes/island-ep02) | [release](../../releases/tag/island-ep02) |
+<!--island-rows-->
+
 - 📋 [IG setup sheet](SETUP.md) · ✍️ [แคปชันทุกคลิป](brief.md) · 🖼️ [รูปโปรไฟล์](brand/promptfung-profile.png)
 
 เรื่องแต่ง · ตัวละครและเหตุการณ์สมมติขึ้นทั้งหมด ใช้ชื่อสถานที่จริงเป็นฉากเท่านั้น
