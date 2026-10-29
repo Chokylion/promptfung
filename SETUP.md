@@ -1,6 +1,6 @@
 # promptfung · IG setup sheet
 
-Account: **@prompt_fung** · Site: https://promptfung.vercel.app
+Account: **@prompt_fung**
 
 ## 1. Profile (Edit profile, in the app)
 | Field | Value |
@@ -9,14 +9,14 @@ Account: **@prompt_fung** · Site: https://promptfung.vercel.app
 | Name | `promptfung · พร้อมฟัง` |
 | Username | `prompt_fung` |
 | Category | Digital creator (or Video creator) |
-| Website | `https://promptfung.vercel.app` (links can only be edited in the mobile app) |
+| Website | leave empty (keep the site private) |
 
 **Bio** (≤150 chars):
 ```
 พร้อมฟังทุกเรื่องวันสิ้นโลก 🎧
 แอนิเมชันไทย ตอนละ 2 นาที
 ❄️ 15 วันก่อนหิมะตก · จบภาคฤดูหนาว
-ดูทุกตอนต่อเนื่อง 👇
+ตอนใหม่เร็วๆ นี้ 🌊
 ```
 
 ## 2. Account settings
@@ -40,7 +40,7 @@ Account: **@prompt_fung** · Site: https://promptfung.vercel.app
   - `🌊 ทริปรอดตาย` — new arc, add as episodes come out
   - `🛶 ท่าพระจันทร์` — 5 episodes
   - `🐰 อนาล็อก` — 2 shorts
-- Story after every new episode: poster + "ตอนใหม่มาแล้ว" sticker + link sticker to the site.
+- Story after every new episode: poster + "ตอนใหม่มาแล้ว" sticker.
 
 ## 5. Brand
 | | |
