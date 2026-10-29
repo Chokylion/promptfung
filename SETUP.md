@@ -32,6 +32,8 @@ Account: **@prompt_fung** · Site: https://promptfung.vercel.app
 - Turn on **"Also share to Facebook"** only if you want it there too.
 
 ## 4. Profile layout
+- **Pinned panorama (3 posts that make one picture):** [`brand/pin/`](brand/pin) — `pin-1.png` (left) · `pin-2.png` (middle, logo) · `pin-3.png` (right), 1080×1440 each (3:4).
+  Post them in the order **pin-3 → pin-2 → pin-1** (newest shows first, top-left), then pin all three: pin **pin-3 first, then pin-2, then pin-1**, so they line up left → right.
 - **Pin** ตอนที่ 1 (and later the newest episode) to the top of the grid.
 - **Highlights** (cover = logo on black):
   - `❄️ หิมะ` — ตอนที่ 1–15 as stories
