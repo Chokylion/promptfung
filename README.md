@@ -41,6 +41,7 @@
 | ตอนที่ 3 | [โฟลเดอร์](episodes/island-ep03) | [release](../../releases/tag/island-ep03) |
 | ตอนที่ 4 | [โฟลเดอร์](episodes/island-ep04) | [release](../../releases/tag/island-ep04) |
 | ตอนที่ 5 | [โฟลเดอร์](episodes/island-ep05) | [release](../../releases/tag/island-ep05) |
+| ตอนที่ 6 | [โฟลเดอร์](episodes/island-ep06) | [release](../../releases/tag/island-ep06) |
 <!--island-rows-->
 
 - 📋 [IG setup sheet](SETUP.md) · ✍️ [แคปชันทุกคลิป](brief.md) · 🖼️ [รูปโปรไฟล์](brand/promptfung-profile.png)
