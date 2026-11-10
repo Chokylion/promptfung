@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# Creates the PRIVATE GitHub repo "promptfung" and uploads the 15 full-HD episodes of
-# 15 วันก่อนหิมะตก (winter arc) as one Release. Private: only the owner (and invited collaborators) can see or download.
+# Creates the GitHub repo "promptfung" and uploads the 15 full-HD episodes of
+# 15 วันก่อนหิมะตก (winter arc) as one Release.
 set -euo pipefail
 cd "$(dirname "$0")"
-VDO="/c/Users/KWatamat/OneDrive - Analog Devices, Inc/Desktop/Project/chonimate/vdo"
+VDO="${VDO:?set VDO to the folder with the episode masters}"
 TAG="15-days-before-snow-winter"
 TITLES=("" "ตายแล้วตื่น" "ตุนเสบียง" "ห้องปลอดภัยชั้นสี่" "คนที่ประตู" "วิทยุสื่อสาร" "ทางเดินหิมะ" "ตลาดแลกของ" "ห้องพยาบาล" "ไฟฟ้าส่วนกลาง" "สวนในแล็บ" "หาเสบียงสามย่าน" "คนจากนอกมหาลัย" "ติดต่อข้างนอก" "คืนที่หนาวที่สุด" "ฤดูใบไม้ผลิ")
 
